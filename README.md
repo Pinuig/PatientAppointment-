@@ -6,7 +6,7 @@ This repository contains the code for a Patient Appointment Schedule Management 
 * Appointment Scheduling: 
     * Allows patients to book appointments online.
     * Manages appointment availability based on provider schedules.
-    * Supports various appointment types (e.g., check-ups, consultations).
+    * Supports various appointment types (e.g., check-ups).
 * Patient Management:
     * Stores patient information (name, contact details).
     * Enables searching and filtering of patient records.
